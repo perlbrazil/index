@@ -19,6 +19,6 @@
 * [**Intermediario**] Em breve
 * [**Avançado**] Em breve
 
-##### Notícias
+##### Blogs sobre Perl
 
-* [**Em breve**] ()
+* [**Heitor Gouvea**] (http://blog.heitorgouvea.com/)
