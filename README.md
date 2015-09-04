@@ -19,6 +19,7 @@
 * [**Intermediario**] Em breve
 * [**Avançado**] Em breve
 
-##### Blogs sobre Perl
+##### Artigos sobre Perl
 
-* [**Heitor Gouvea**] (http://blog.heitorgouvea.com/)
+* [**Quem usa Perl ?**] (http://blog.heitorgouvea.com/2015/08/31/quem-usa-perl/)
+ * [**Perl está morta ?**] (http://blog.heitorgouvea.com/2015/09/03/perl-esta-morta/)
