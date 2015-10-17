@@ -10,7 +10,7 @@
 
 ##### Apostilas
 
-* [**Basico**] (https://github.com/HeitorG/Perl-Brasil/blob/master/perl-basico.pdf)
+* [**Basico**] (https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
 * [**Intermediario**] Em breve
 * [**Avançado**] Em breve
 
