@@ -1,0 +1,52 @@
+%% $Id: abntex-abrev-pt_BR.def,v 1.2 2003/10/13 09:41:07 gweber Exp $
+%% name of this file nbr10522-1988.sty
+%% Copyright 2003 by the abnTeX group at http://abntex.codigolivre.org.br
+%%
+%% This file is distributed under the LaTeX-Project Public License (LPPL)
+%%            http://www.latex-project.org/lppl.html
+%% You are free to modify this file under the LPPL.
+%%
+%% $Log: abntex-abrev-pt_BR.def,v $
+%% Revision 1.2  2003/10/13 09:41:07  gweber
+%% Passa a usar cvs-id.def para gerar informações sobre data e versão.
+%%
+%% Revision 1.1  2003/06/27 13:50:05  gweber
+%% Traduções português-inglês dos termos usados em abreviações.
+%%
+
+\input{cvs-id.def}
+\CVSExtract$Id: abntex-abrev-pt_BR.def,v 1.2 2003/10/13 09:41:07 gweber Exp $
+\CVSFile{nbr}{\space definicao de abntex-abrev, traducao de termos en_US/pt_BR}
+
+
+\RequirePackage{abntex-abrev}
+
+\providecommand{\@PREF@}{}
+
+\newcommand{\@TR@adaptation}{\@PREF@{adaptacao}}
+\newcommand{\@TR@adapted}{\@PREF@{adaptado}}
+\newcommand{\@TR@adapter}{\@PREF@{adaptador}}
+\newcommand{\@TR@april}{\@PREF@{abril}}
+\newcommand{\@TR@august}{\@PREF@{agosto}}
+\newcommand{\@TR@chapter}{\@PREF@{capitulo}}
+\newcommand{\@TR@chapters}{\@PREF@{capitulos}}
+\newcommand{\@TR@citation}{\@PREF@{citacao}}
+\newcommand{\@TR@extended}{\@PREF@{ampliado}}
+\newcommand{\@TR@edited}{\@PREF@{editado}}
+\newcommand{\@TR@edition}{\@PREF@{edicao}}
+\newcommand{\@TR@editor}{\@PREF@{editor}}
+\newcommand{\@TR@february}{\@PREF@{fevereiro}}
+\newcommand{\@TR@december}{\@PREF@{dezembro}}
+\newcommand{\@TR@illustrated}{\@PREF@{ilustrado}}
+\newcommand{\@TR@illustration}{\@PREF@{ilustracao}}
+\newcommand{\@TR@illustrator}{\@PREF@{ilustrador}}
+\newcommand{\@TR@january}{\@PREF@{janeiro}}
+\newcommand{\@TR@june}{\@PREF@{junho}}
+\newcommand{\@TR@jule}{\@PREF@{julho}}
+\newcommand{\@TR@march}{\@PREF@{marco}}
+\newcommand{\@TR@may}{\@PREF@{maio}}
+\newcommand{\@TR@november}{\@PREF@{novembro}}
+\newcommand{\@TR@october}{\@PREF@{outubro}}
+\newcommand{\@TR@september}{\@PREF@{setembro}}
+\newcommand{\@TR@west}{\@PREF@{oeste}}
+\newcommand{\@TR@page}{\@PREF@{pagina}}

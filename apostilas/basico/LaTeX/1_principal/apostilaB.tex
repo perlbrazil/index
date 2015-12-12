@@ -1,0 +1,60 @@
+%****************************************************************************
+%*  Autor: Nicolas Peter Lane                                               *
+%*  Data: 02/04/2015                                                        *
+%*  Modelo LaTeX                                                            *
+%*  sugestões/dúvidas: lambdox@gmail.com                                    *
+%*  									    *
+%*  Licença GPL:              						    *
+%*  Permission to use, copy, modify, and distribute this protocol and its   *
+%*  documentation for any purpose, without fee, and without written         *
+%*  agreement is hereby granted, provided that the above copyright notice,  *
+%*  and the author appear in all copies of this protocol.                   *
+%*                                                                          *
+%****************************************************************************/
+
+\documentclass[a4paper, ruledheader]{abnt}
+
+\usepackage[brazilian]{babel} % Permite utilizar configuracoes da linguagem portugesa do Brasil e Inglesa
+\usepackage[utf8]{inputenc} % Permite especificar codificacao das entradas (caracteres acentuados - á - sem usar \'a)
+\usepackage{perl}
+\usepackage{float}
+\usepackage{psfrag}
+\usepackage{subfig}
+\usepackage{amsmath}%Permite usar fórmulas matemáticas
+\usepackage{graphicx}
+\usepackage{latexsym}
+\usepackage{ragged2e} %Permite usar formatação justificada /justify
+\usepackage[Conny]{fncychap} 
+\ChTitleAsIs
+
+\begin{document}
+
+
+\instituicao{Perl Brasil}
+\autor{Heitor G., Nicolas P. Lane, Marcos F., Guilherme B., Pedro S., Marcos O., Gabriel M., Brian L., Felipe A., Junior O. 
+}
+
+\titulo{Apostila b\'asica de Perl}
+
+\data{dezembro / 2015}
+
+\input{../2_pre_texto/capa}
+\setcounter{page}{1} % inicia a contagem do numero das paginas
+\pagenumbering{roman} % define tipo de numeracao romana minuscula
+\input{../2_pre_texto/sumario}
+
+\setcounter{page}{0} % Reinicia a contagem do numero das paginas
+\pagenumbering{arabic} % Numeracao dos capitulos arabica
+
+\input{../3_texto/introducao}
+\input{../3_texto/capitulo1}
+\input{../3_texto/capitulo2}
+\input{../3_texto/capitulo3}
+\input{../3_texto/capitulo4}
+\input{../3_texto/capitulo5}
+\input{../3_texto/capitulo6}
+\input{../3_texto/capitulo7}
+\input{../3_texto/capitulo8}
+\input{../3_texto/capitulo9}
+\input{../3_texto/consideracoesF.tex}
+\end{document}

@@ -1,0 +1,17 @@
+\select@language {brazilian}
+\contentsline {chapter}{\numberline {1}Introdu\c {c}\~ao}{1}
+\contentsline {chapter}{\numberline {2}Ambiente de desenvolvimento}{2}
+\contentsline {section}{\numberline {2.1}Interpretador perl}{2}
+\contentsline {section}{\numberline {2.2}Editor de texto}{2}
+\contentsline {chapter}{\numberline {3}Hello World}{3}
+\contentsline {chapter}{\numberline {4}Vari\'aveis}{4}
+\contentsline {chapter}{\numberline {5}Operadores}{6}
+\contentsline {chapter}{\numberline {6}Entrada de dados}{7}
+\contentsline {chapter}{\numberline {7}Tomando decis\~oes}{9}
+\contentsline {chapter}{\numberline {8}Entrada de dados}{12}
+\contentsline {chapter}{\numberline {9}La\IeC {\c c}os de repeti\c {c}\~ao}{13}
+\contentsline {chapter}{\numberline {10}Manipula\c {c}\~ao de arquivos e comandos no sistema}{16}
+\contentsline {chapter}{\numberline {11}Considera\c {c}\~oes finais}{18}
+\contentsline {section}{\numberline {11.1}Ci\^encia Hacker}{19}
+\contentsline {section}{\numberline {11.2}WebSchool}{19}
+\contentsline {section}{\numberline {11.3}Contato}{19}

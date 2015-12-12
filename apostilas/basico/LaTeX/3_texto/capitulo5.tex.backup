@@ -1,0 +1,44 @@
+\chapter{Entrada de dados}
+
+Agora ser\'a apresentado como capturar dados a partir da entrada padr\~a e armazenar seu conte\'udo em uma vari\'avel.
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.5\textwidth]{../5_figuras/image7}
+	\caption{Algoritmo com captura da entrada padr\~ao}
+\end{figure}
+
+Na figura 7, linha 4 a vari\'avel \$nome que recebe o valor de \textit{$<$STDIN$>$}, que \'e a fun\c{c}\~ao que l\^e uma linha da entrada padr\~ao, 
+nesse caso, o teclado. O que \'e chomp? \'E a fun\c{c}\~ao que elimina o \'ultimo caractere caso esse \'ultimo caractere seja um o comando de escape 
+respons\'avel pela quebra da linha (\textbackslash n). A sa\'ida do algoritmo segue na figura 8.
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.5\textwidth]{../5_figuras/image8}
+	\caption{Sa\'ida do algoritmo de captura da entrada padr\~ao}
+\end{figure}
+
+Hora de colocar o conhecimento adquirido em pr\'atica. 
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.5\textwidth]{../5_figuras/image9}
+	\caption{Modelo de algoritmo a se adotar}
+\end{figure}
+
+Bom, temos algumas coisinhas novas, primeiramente o que s\~ao m\^odulos? M\'odulos s\~ao praticamente bibliotecas que mudam o mode de interpreta\c{c}\~ao 
+do Perl. Como usar m\'odulos? Na figura 9, em sua 3$^a$ e 4$^a$ linha s\~ao usados os m\'odulos \textit{strict} e \textit{warnings} o \textit{use} 
+indica ao interpretador quais m\'odulos a serem ativados.
+
+\textit{strict} e \textit{warnings} ir\~ao auxilia-lo a evitar os principais erros e enganos comuns em seu c\'odigo ou at\'e mesmo em alguns casos prevenir
+que voc\^e os realize, por isso s\~ao extremamente \'uteis e recomendados a serem usados, nunca deixe de us\'a-los. 
+  
+Logo depois na linha 12 efetuamos uma opera\c{c}\~ao m\'atematica para descobrir o ano de nascimento do nosso usu\'ario baseado na idade informada, a l\'ogica
+para resolver esse problema \'e basicamente o ano atual, menos a idade a partir do ano de nascimento. Depois escrevemos isto na tela utilizando o comando
+print. A sa\'ida \'e apresentada na figura 10.
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.5\textwidth]{../5_figuras/image10}
+	\caption{Sa\'ida do algoritmo}
+\end{figure}

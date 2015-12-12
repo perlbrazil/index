@@ -1,0 +1,398 @@
+% Pacote LaTeX contendo definições para facilitar a criação de trabalhos
+% seguindo o padrão da Universidade Estadual do Pará. Adaptado do padrão da Universidade Estadual do Ceará
+
+%\RequirePackage{lastpage}
+
+\newcommand{\ABNTcentrodata}{}
+\newcommand{\centro}[1]{\renewcommand{\ABNTcentrodata}{#1}}
+
+\newcommand{\ABNTcursodata}{}
+\newcommand{\curso}[1]{\renewcommand{\ABNTcursodata}{#1}}
+
+\newcommand{\ABNTdepartamentodata}{}
+\newcommand{\departamento}[1]{\renewcommand{\ABNTdepartamentodata}{#1}}
+
+\newcommand{\ABNTautorrdata}{}
+\newcommand{\autorr}[1]{\renewcommand{\ABNTautorrdata}{#1}}
+
+\newcommand{\ABNTepigrafedata}{}
+\newcommand{\epigrafe}[1]{\renewcommand{\ABNTepigrafedata}{#1}}
+
+\newcommand{\ABNTautorepigrafedata}{}
+\newcommand{\autorepigrafe}[1]{\renewcommand{\ABNTautorepigrafedata}{#1}}
+
+\newcommand{\ABNTkwumdata}{}
+\newcommand{\kwum}[1]{\renewcommand{\ABNTkwumdata}{#1}}
+\newcommand{\ABNTkwdoisdata}{}
+\newcommand{\kwdois}[1]{\renewcommand{\ABNTkwdoisdata}{#1}}
+\newcommand{\ABNTkwtresdata}{}
+\newcommand{\kwtres}[1]{\renewcommand{\ABNTkwtresdata}{#1}}
+
+\newcommand{\ABNTpcumdata}{}
+\newcommand{\pcum}[1]{\renewcommand{\ABNTpcumdata}{#1}}
+\newcommand{\ABNTpcdoisdata}{}
+\newcommand{\pcdois}[1]{\renewcommand{\ABNTpcdoisdata}{#1}}
+\newcommand{\ABNTpctresdata}{}
+\newcommand{\pctres}[1]{\renewcommand{\ABNTpctresdata}{#1}}
+
+\newcommand{\ABNTbancaumdata}{}
+\newcommand{\bancaum}[1]{\renewcommand{\ABNTbancaumdata}{#1}}
+\newcommand{\ABNTbancadoisdata}{}
+\newcommand{\bancadois}[1]{\renewcommand{\ABNTbancadoisdata}{#1}}
+\newcommand{\ABNTbancatresdata}{}
+\newcommand{\bancatres}[1]{\renewcommand{\ABNTbancatresdata}{#1}}
+\newcommand{\ABNTbancaquatrodata}{}
+\newcommand{\bancaquatro}[1]{\renewcommand{\ABNTbancaquatrodata}{#1}}
+
+\newcommand{\ABNTcodigocipum  }{} \newcommand{\codigocipum  }[1]{\renewcommand{\ABNTcodigocipum}{#1}}
+\newcommand{\ABNTcodigocipdois}{} \newcommand{\codigocipdois}[2]{\renewcommand{\ABNTcodigocipdois}{#1}}
+\newcommand{\codigocip}[2]{\codigocipum{#1}\codigocipdois{#2}}
+
+\newcommand{\ABNTcidadedata}{}
+\newcommand{\cidade}[1]{\renewcommand{\ABNTcidadedata}{#1}}
+
+\newcommand{\kws}[3]{\kwum{#1}\kwdois{#2}\kwtres{#3}}
+\newcommand{\pcs}[3]{\pcum{#1}\pcdois{#2}\pctres{#3}}
+
+\newcommand{\keywords}{
+	Keywords: \ABNTkwumdata, \ABNTkwdoisdata, \ABNTkwtresdata
+}
+
+\newcommand{\palavraschave}{
+	Palavras-Chave: \ABNTpcumdata, \ABNTpcdoisdata, \ABNTpctresdata
+}
+
+
+\renewcommand{\capa}{
+	\begin{center}
+	\espaco{1.1}
+
+		\includegraphics[width=2.5cm]{../5_figuras/perl}
+
+		\large\ABNTchapterfont
+
+		\MakeUppercase{\ABNTinstituicaodata} 
+		%\MakeUppercase{\ABNTcentrodata} \\
+		%\MakeUppercase{\ABNTdepartamentodata} \\
+		%\MakeUppercase{\ABNTcursodata}
+
+		\vspace{0.5cm}
+
+		\MakeUppercase{\ABNTautordata}
+
+		\vspace{4cm}
+
+		\Large\ABNTchapterfont\MakeUppercase{\ABNTtitulodata}\par
+
+		\vfill
+
+		\textbf{ \MakeUppercase{ \ABNTlocaldata} }
+
+		\textbf{ \ABNTdatadata }
+
+	\end{center}
+	\pagebreak
+           \setcounter{page}{1} %%%%%%%%%%%%%%%%% contagem de página padrão
+}
+
+
+\renewcommand{\folhaderosto}{
+	\espaco{1.1}
+
+	\begin{center}
+		\large\ABNTchapterfont\MakeUppercase\ABNTautordata\par
+		\vspace{4.0cm}\par
+		\large\ABNTchapterfont\MakeUppercase\ABNTtitulodata
+	\end{center}
+
+	\vspace{5cm}
+
+	\hspace{.35\textwidth}
+	\begin{minipage}{.5\textwidth}
+		\begin{espacosimples}
+			\ABNTcomentariodata\par
+		\end{espacosimples}
+		\hspace{.35\textwidth}
+		\begin{espacosimples}
+			\esporient{\numberline {Orientador:}}{\ignorespaces\ABNTorientadordata}
+		\end{espacosimples}
+		\ABNTifnotempty{\ABNTcoorientadordata}{
+			\hspace{.35\textwidth}
+			\begin{espacosimples}
+				\espcoorient{\numberline {Co-Orientadores:}}{\ignorespaces\ABNTcoorientadordata}
+			\end{espacosimples}
+		}
+	\end{minipage}
+
+	\vfill
+
+	\begin{center}
+		\textbf{\MakeUppercase\ABNTlocaldata}\par
+		\textbf{\ABNTdatadata}
+	\end{center}
+
+	\pagebreak
+}
+
+
+\gdef\uececiptitle{Dados Internacionais de Catalogação na Publicação (CIP)}
+\newcommand{\makecippage}{
+	\vspace*{14cm}
+	\begin{center}
+		\cipwindow
+	\end{center}
+	\vfill
+}
+
+
+\def\cipwindow{
+	\framebox[12.5cm]{
+		\begin{minipage}[b][7.5cm][t]{1.5cm}
+			\ABNTcodigocipum
+		\end{minipage}
+		\hfill
+		\begin{minipage}[b][7.5cm][s]{10cm}
+			\ABNTautorrdata.
+
+			\hspace{0.4cm}
+			\ABNTtitulodata\ / \ABNTautordata. -- \ABNTcidadedata, \ABNTdatadata.
+
+			\hspace{0.4cm}
+			%\pageref{LastPage}p.;il.
+
+			\uececipdata
+
+			\begin{flushright}
+				\ABNTcodigocipdois
+			\end{flushright}
+		\end{minipage}
+	}
+}
+
+
+\gdef\uececipdata{
+	\hspace{0.4cm}
+	Orientador: Prof. Dr. \ABNTorientadordata
+
+	\hspace{0.4cm}
+	Monografia (\ABNTcursodata) - \ABNTinstituicaodata, \ABNTcentrodata.
+   
+	\hspace{0.4cm}
+	$1$. \ABNTpcumdata\ $2$. \ABNTpcdoisdata\ $3$. \ABNTpctresdata\ I. \ABNTinstituicaodata, \ABNTcentrodata.
+
+}
+
+
+
+% ******** FOLHA DE ROSTO *********
+\newcommand{\esporient}[2]{
+	\leftskip 0em
+	\@tempdima 5.5em
+	\advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+	{#1#2\hfil}}
+
+\newcommand{\espcoorient}[2]{
+	\leftskip 0em
+	\@tempdima 8em
+	\advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+	{#1#2\hfil}}
+
+% Altera o tamanho das fontes dos capítulos e dos apêndices
+\renewcommand{\ABNTchapterfont}{\bfseries}
+\renewcommand{\ABNTchaptersize}{\Large}
+\renewcommand{\ABNTanapsize}{\Large}
+
+%Altera o espaçamento entre dots
+\renewcommand\@dotsep{2}
+
+%Altera forma de montagem do table of contents
+\renewcommand\l@chapter[2]{
+  \ifnum \c@tocdepth >\m@ne
+    \addpenalty{-\@highpenalty}%
+    \vskip 1.0em \@plus\p@
+    \setlength\@tempdima{1.5em}%
+    \begingroup
+      \ifthenelse{\boolean{ABNTpagenumstyle}}
+        {\renewcommand{\@pnumwidth}{3.5em}}
+        {}
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode \normalsize\ABNTtocchapterfont
+      \advance\leftskip\@tempdima
+      \hskip -\leftskip
+      #1\nobreak\dotfill \nobreak%
+      \ifthenelse{\boolean{ABNTpagenumstyle}}
+         {%
+          \hb@xt@\@pnumwidth{\hss 
+            \ifthenelse{\not\equal{#2}{}}{{\normalfont p.\thinspace#2}}{}}\par
+         }
+         {%
+          \hb@xt@\@pnumwidth{\hss #2}\par
+         }
+      \penalty\@highpenalty
+    \endgroup
+  \fi}
+
+
+\renewcommand*\l@section{\@dottedtocline{1}{0em}{2.3em}}
+\renewcommand*\l@subsection{\@dottedtocline{2}{0em}{3.2em}}
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{0em}{4.1em}}
+
+
+% Cria um comando auxiliar para montagem da lista de figuras
+\newcommand{\figfillnum}[1]{%
+  {\hspace{1em}\normalfont\dotfill}\nobreak
+  \hb@xt@\@pnumwidth{\hfil\normalfont #1}{}\par}
+
+
+% Cria um comando auxiliar para montagem da lista de tabelas
+\newcommand{\tabfillnum}[1]{%
+	{\hspace{1em}\normalfont\dotfill}\nobreak
+	\hb@xt@\@pnumwidth{\hfil\normalfont #1}{}\par}
+
+
+% Altera a forma de montagem da lista de figuras
+\renewcommand*{\l@figure}[2]{
+	\leftskip 3.1em
+	\rightskip 1.6em
+	\parfillskip -\rightskip
+	\parindent 0em
+	\@tempdima 2.0em
+	\advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+	{Figura \normalfont #1}\nobreak \figfillnum{#2}}
+
+
+% Altera a forma de montagem de lista de tabelas
+\renewcommand*{\l@table}[2]{
+	\leftskip 3.4em
+	\rightskip 1.6em
+	\parfillskip -\rightskip
+	\parindent 0em
+	\@tempdima 2.0em
+	\advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+	{Tabela \normalfont #1}\nobreak \tabfillnum{#2}}
+
+
+% Define os comandos que montam a lista de símbolos
+\newcommand{\listadesimbolos}{\pretextualchapter{Lista de Simbolos}\@starttoc{lsb}}
+\newcommand{\simbolo}[2]{{\addcontentsline{lsb}{simbolo}{\numberline{#1}{#2}}}#1}
+\newcommand{\l@simbolo}[2]{
+	\vspace{-0.75cm}
+	\leftskip 0em
+	\parindent 0em
+	\@tempdima 5em
+	\advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+	{\normalfont #1}\hfil\nobreak\par}
+
+
+% Define o comando que monta a lista de siglas
+\newcommand{\listadesiglas}{\pretextualchapter{Lista de Abreviaturas}\@starttoc{lsg}}
+\newcommand{\sigla}[2]{{\addcontentsline{lsg}{sigla}{\numberline{#1}{#2}}}#1}
+\newcommand{\l@sigla}[2]{
+	\vspace{-0.75cm}
+	\leftskip 0em
+	\parindent 0em
+	\@tempdima 5em
+	\advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+	{\normalfont #1}\hfil\nobreak\par}
+
+
+% Altera a posição da numeração de páginas dos elementos pré-textuais
+\renewcommand\pretextualchapter{
+	\if@openright\cleardoublepage\else\clearpage\fi
+	\pagestyle{empty}
+	\global\@topnum\z@
+	\@afterindentfalse
+	\@schapter}
+
+
+% Altera a posição da numeração de páginas dos elementos textuais
+%\renewcommand{\ABNTchaptermark}[1]{
+%	\ifthenelse{\boolean{ABNTNextOutOfTOC}}
+%		{\markboth{\ABNTnextmark}{\ABNTnextmark}}
+%		{\chaptermark{#1}
+		%\pagestyle{\chaptertitlepagestyle}
+%}
+
+
+% Redefine o tipo de numeração das páginas
+%\renewcommand{\ABNTBeginOfTextualPart}{
+%	%\renewcommand{\chaptertitlepagestyle}{ruledheader}
+%	\renewcommand{\thepage}{\arabic{page}}
+%	}
+
+
+%Altera o tamanho do parágrafo
+\setlength{\parindent}{1.5cm}
+
+
+\def\termodeaprovacao{
+	\espaco{1.1}
+
+	\begin{center}
+		\Large\ABNTchapterfont
+		\MakeUppercase{\ABNTautordata}\par
+		\vspace{1cm}
+		\MakeUppercase{\ABNTtitulodata}
+	\end{center}
+
+	\vspace{2cm}
+	\hspace{.35\textwidth}
+	\begin{minipage}{.5\textwidth}
+		\begin{espacosimples}
+			\ABNTcomentariodata
+		\end{espacosimples}
+	\end{minipage}
+
+	{
+	\noindent \large
+	Aprovada em: \_\_/\_\_/\_\_\_\_
+	}
+
+	\vspace{1cm}
+
+	\begin{center}
+	\textbf{BANCA EXAMINADORA}
+	\end{center}
+
+	\setlength{\ABNTsignthickness}{0.4pt}
+	\setlength{\ABNTsignskip}{2cm}
+
+	\ABNTifnotempty{\ABNTbancaumdata}{
+		\vspace{-0.5cm}
+		\assinatura{\ABNTbancaumdata}
+	}
+
+	\ABNTifnotempty{\ABNTbancadoisdata}{
+		\vspace{-0.5cm}
+		\assinatura{\ABNTbancadoisdata}
+	}
+
+	\ABNTifnotempty{\ABNTbancatresdata}{
+		\vspace{-0.5cm}
+		\assinatura{\ABNTbancatresdata}
+	}
+
+	\ABNTifnotempty{\ABNTbancaquatrodata}{
+		\vspace{-0.5cm}
+		\assinatura{\ABNTbancaquatrodata}
+	}
+
+	\vfill
+
+	\pagebreak
+}
+
+
+\def\makeepigrafe{
+	\vspace*{20cm}
+	\hspace{.5\textwidth}
+	\begin{minipage}{.4\textwidth}
+		\par
+		\textit{
+			\ABNTepigrafedata \\ 
+			\bfseries \ABNTautorepigrafedata
+		}
+	\end{minipage}
+	\pagebreak
+}
