@@ -21,4 +21,4 @@
 
 ##### Artigos sobre Perl
 
-* [**Quem usa Perl ?**] (http://rio.pm.org/quem_usa.html/) - Rio PM
+* [**Quem usa Perl ?**] (http://rio.pm.org/quem_usa.html) - Rio PM
