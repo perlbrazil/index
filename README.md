@@ -10,14 +10,10 @@
 
 ##### Apostilas
 
-* [**Basico**] (https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
-* [**Intermediario**] Em breve
-* [**Avançado**] Em breve
+* [**Heitor Gouvea: Perl baśico**] (https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
 
 ##### Videos
-* [**Basico**] Em breve
-* [**Intermediario**] Em breve
-* [**Avançado**] Em breve
+* [**Daniel Nunes: Conhecendo o Perl e suas Aplicações**] (https://www.youtube.com/watch?v=mdD8Wc_Jqx8)
 
 ##### Artigos sobre Perl
 
