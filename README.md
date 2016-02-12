@@ -17,4 +17,13 @@
 
 ##### Artigos sobre Perl
 
-* [**Rio PM: Quem usa Perl ?**] (http://rio.pm.org/quem_usa.html)
+* [**Rio PM: Quem usa Perl?**] (http://rio.pm.org/quem_usa.html)
+* [**Rio PM: Mitos e FUD sobre Perl**] (http://rio.pm.org/mitos.html)
+
+##### Licença
+
+- Este trabalho está licenciado sob [**Artistic License 2.0**](https://github.com/HeitorG/nipe/blob/master/LICENSE.md)
+
+##### Contribuição
+
+- Suas contribuições e sugestões são bem vindas de todo coração.♥ (✿◕‿◕)
