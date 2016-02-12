@@ -1,6 +1,6 @@
 # Perl Brasil
 
-***Repositorio dedicado á comunidade Perl Brasil, aqui você encontrará links para materias e muito mais.***
+***Repositorio dedicado á comunidade Perl do Brasil, aqui você encontrará links para materias e muito mais.***
 
 ##### Redes sociais
 
