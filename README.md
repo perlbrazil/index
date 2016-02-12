@@ -10,19 +10,20 @@
 
 ##### Apostilas
 
-* [**Heitor Gouvea: Perl baśico**] (https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
+* [**Heitor Gouvea: Perl baśico**](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
 
 ##### Videos
-* [**Daniel Nunes: Conhecendo o Perl e suas Aplicações**] (https://www.youtube.com/watch?v=mdD8Wc_Jqx8)
+* [**Daniel Nunes: Conhecendo o Perl e suas Aplicações**](https://www.youtube.com/watch?v=mdD8Wc_Jqx8)
 
 ##### Artigos sobre Perl
 
-* [**Rio PM: Quem usa Perl?**] (http://rio.pm.org/quem_usa.html)
-* [**Rio PM: Mitos e FUD sobre Perl**] (http://rio.pm.org/mitos.html)
+* [**Rio PM: Quem usa Perl?**](http://rio.pm.org/quem_usa.html)
+* [**Rio PM: Mitos e FUD sobre Perl**](http://rio.pm.org/mitos.html)
+* [**São Paulo PM: Por que Perl?l**](http://sao-paulo.pm.org/pub/por-que-perl)
 
 ##### Licença
 
-- Este trabalho está licenciado sob [**Artistic License 2.0**](https://github.com/HeitorG/nipe/blob/master/LICENSE.md)
+- Este trabalho está licenciado sob [**Artistic License 2.0**](https://github.com/HeitorG/Perl-Brasil/blob/master/LICENSE.md)
 
 ##### Contribuição
 
