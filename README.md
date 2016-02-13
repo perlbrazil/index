@@ -19,7 +19,8 @@
 
 * [**Rio PM: Quem usa Perl?**](http://rio.pm.org/quem_usa.html)
 * [**Rio PM: Mitos e FUD sobre Perl**](http://rio.pm.org/mitos.html)
-* [**São Paulo PM: Por que Perl?l**](http://sao-paulo.pm.org/pub/por-que-perl)
+* [**São Paulo PM: Por que Perl?**](http://sao-paulo.pm.org/pub/por-que-perl)
+* [**iMasters: Entrevista com Larry Wall**](http://imasters.com.br/linguagens/perl/entrevista-larry-wall/?trace=1519021197&source=single)
 
 ##### Licença
 
