@@ -22,6 +22,10 @@
 * [**São Paulo PM: Por que Perl?**](http://sao-paulo.pm.org/pub/por-que-perl)
 * [**iMasters: Entrevista com Larry Wall**](http://imasters.com.br/linguagens/perl/entrevista-larry-wall/?trace=1519021197&source=single)
 
+##### Bugs
+
+- Reporte bugs em meu email: **hi@heitorgouvea.me**
+
 ##### Licença
 
 - Este trabalho está licenciado sob [**Artistic License 2.0**](https://github.com/HeitorG/Perl-Brasil/blob/master/LICENSE.md)
