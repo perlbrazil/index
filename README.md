@@ -4,8 +4,8 @@
 
 ##### Redes sociais
 
-* [**Página Facebook**](https://www.facebook.com/PerlBrOficial)
-* [**Grupo Facebook**](https://www.facebook.com/groups/PerlBrasilOficial/)
+* [**Página no Facebook**](https://www.facebook.com/PerlBrOficial)
+* [**Grupo no Facebook**](https://www.facebook.com/groups/PerlBrasilOficial/)
 * [**Twitter**](https://twitter.com/Perl_Brasil)
 
 ##### Apostilas
