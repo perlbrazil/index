@@ -29,7 +29,7 @@
 
 ##### Licença
 
-- Este trabalho está licenciado sob [**Artistic License 2.0**](https://github.com/HeitorG/Perl-Brasil/blob/master/LICENSE.md)
+- Este trabalho está licenciado sob [**MIT License**](https://github.com/HeitorG/Perl-Brasil/blob/master/LICENSE.md)
 
 ##### Contribuição
 
