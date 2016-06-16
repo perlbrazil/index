@@ -2,7 +2,7 @@
 
 ***Repositorio dedicado á comunidade Perl do Brasil, aqui você encontrará links para materias e muito mais.***
 
-[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HeitorG/awesome-biohacking/blob/master/LICENSE.md)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HeitorG/Perl-Brasil/blob/master/LICENSE.md)
  
  
 ##### Redes sociais
