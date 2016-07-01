@@ -13,7 +13,7 @@
 
 ##### Apostilas
 
-* [**Heitor Gouvea: Perl baśico**](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
+* [**Heitor Gouvea: Perl baśico**](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
 
 ##### Videos
 * [**Daniel Nunes: Conhecendo o Perl e suas Aplicações**](https://www.youtube.com/watch?v=mdD8Wc_Jqx8)
@@ -32,7 +32,7 @@
 
 ##### Licença
 
-- Este trabalho está licenciado sob [**MIT License**](https://github.com/HeitorG/Perl-Brasil/blob/master/LICENSE.md)
+- Este trabalho está licenciado sob [**MIT License**](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/LICENSE.md)
 
 ##### Contribuição
 
