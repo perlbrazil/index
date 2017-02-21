@@ -3,8 +3,8 @@
 ***Repositorio dedicado á comunidade Perl do Brasil, aqui você encontrará links para materias e muito mais.***
 
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HeitorG/Perl-Brasil/blob/master/LICENSE.md)
- 
- 
+
+
 ##### Redes sociais
 
 * [**Página no Facebook**](https://www.facebook.com/PerlBrOficial)
@@ -28,7 +28,7 @@
 
 ##### Bugs
 
-- Reporte bugs em meu email: **hi@heitorgouvea.me**
+- Reporte bugs em meu email: **hgouvea@protonmail.com**
 
 ##### Licença
 
