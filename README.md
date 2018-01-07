@@ -13,7 +13,7 @@
 
 ##### Apostilas
 
-* [**Heitor Gouvea: Perl básico**](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
+* [**Heitor Gouvea: Perl básico**](https://heitorgouvea.me/files/perl-basico.pdf)
 
 ##### Videos
 * [**Daniel Nunes: Conhecendo o Perl e suas Aplicações**](https://www.youtube.com/watch?v=mdD8Wc_Jqx8)
