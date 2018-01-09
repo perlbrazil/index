@@ -2,17 +2,16 @@
 
 ***Repositorio dedicado á comunidade Perl do Brasil, aqui você encontrará links para materias e muito mais.***
 
-[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/perlbrasil/index/blob/master/LICENSE.md)
-
-
-## Redes sociais
-
-* [**Página no Facebook**](https://www.facebook.com/PerlBrOficial)
 * [**Grupo no Facebook**](https://www.facebook.com/groups/PerlBrasilOficial/)
+
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/perlbrasil/index/blob/master/LICENSE.md)
 
 ## Apostilas
 
-* [**Heitor Gouvea: Perl básico**](https://heitorgouvea.me/files/perl-basico.pdf)
+* [**Perl básico - Heitor Gouvêa**](https://heitorgouvea.me/files/perl-basico.pdf)
+* [**Perl para iniciantes - Constantine**](https://pastebin.com/raw/Em3gJuR0)
+* [**Trabalhando com Perl - Antonio Cooler**](https://pt.slideshare.net/DaniloJordo/book-perl-cooler)
+* [**Introdução á lógico de programação utilizando Perl - Thiago Yukio**](http://lgmb.fmrp.usp.br/cvbioinfo2008/extras/apresentacoes/thiago_logica.pdf)
 
 ## Videos
 
