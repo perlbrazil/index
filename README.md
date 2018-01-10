@@ -15,7 +15,19 @@
 
 ## Videos
 
-* [**Daniel Nunes: Conhecendo o Perl e suas Aplicações**](https://www.youtube.com/watch?v=mdD8Wc_Jqx8)
+* [**Daniel Nunes: Conhecendo o Perl e suas Aplicações**](https://www.youtube.com/watch?v=tqgBN44orKs)
+* [**Daniel Correa: Perl aula 01 - Preparando o ambiente**](https://www.youtube.com/watch?v=P6ZNPVDhnQ0)
+* [**Daniel Correa: Perl aula 02 - *Variáveis*](https://www.youtube.com/watch?v=X2xFt4fR5dg)
+* [**Daniel Correa: Perl aula 03 - Tomada de decisões e operadores lógicos - pt 1**](https://www.youtube.com/watch?v=QoJola12md0)
+* [**Daniel Correa: Perl aula 04 - Tomada de decisões e operadores lógicos - pt 2**](https://www.youtube.com/watch?v=kAIudZXclxI)
+* [**Daniel Correa: Perl aula 05 - Laços de repetição for e while**](https://www.youtube.com/watch?v=6gmLe8gw-jI)
+* [**Daniel Correa: Perl aula 06 - Conexão com banco de dados mysql**](https://www.youtube.com/watch?v=M4iJvSPy2go)
+* [**Mariana Everton: Linguagem Perl**](https://www.youtube.com/watch?v=3WCNYCq_ST4)
+* [**Descrição e Avaliação da Linguagem Perl**](https://www.youtube.com/watch?v=StxVLUbyFiA)
+* [**Paradigma Funcional linguagem Perl**](https://www.youtube.com/watch?v=o-EjpeBHR4U)
+* [**Analisando a linguagem Perl**](https://www.youtube.com/watch?v=esy-FKFFUGE)
+* [**Conceitos de Linguagens de Programação - Linguagem Perl**](https://www.youtube.com/watch?v=dtJZWrMJ64U)
+* [**Daniel Nunes: Programando em Perl**](https://www.youtube.com/watch?v=vcqG2sO9Mro)
 
 ##  Artigos sobre Perl
 
