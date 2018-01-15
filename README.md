@@ -29,13 +29,11 @@
 * [**Conceitos de Linguagens de Programação - Linguagem Perl**](https://www.youtube.com/watch?v=dtJZWrMJ64U)
 * [**Daniel Nunes: Programando em Perl**](https://www.youtube.com/watch?v=vcqG2sO9Mro)
 
-##  Artigos sobre Perl
+##  Blogs sobre Perl
 
-* [**Rio PM: Quem usa Perl?**](http://rio.pm.org/quem_usa.html)
-* [**Rio PM: Mitos e FUD sobre Perl**](http://rio.pm.org/mitos.html)
-* [**São Paulo PM: Por que Perl?**](http://sao-paulo.pm.org/pub/por-que-perl)
-* [**iMasters: Entrevista com Larry Wall**](http://imasters.com.br/linguagens/perl/entrevista-larry-wall/?trace=1519021197&source=single)
-* [**Perl, para que?**](http://www.devmedia.com.br/perl-para-que/12787)
+* [**Rio PM**](http://rio.pm.org)
+* [**Perl Maven**](https://br.perlmaven.com/perl-tutorial)
+* [**São Paulo Perl Mongers**](http://sao-paulo.pm.org/pub)
 
 ## Bugs
 
