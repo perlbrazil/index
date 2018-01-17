@@ -8,10 +8,12 @@
 
 ## Apostilas
 
-* [**Perl básico - Heitor Gouvêa**](https://heitorgouvea.me/files/perl-basico.pdf)
-* [**Perl para iniciantes - Constantine**](https://pastebin.com/raw/Em3gJuR0)
-* [**Trabalhando com Perl - Antonio Cooler**](https://pt.slideshare.net/DaniloJordo/book-perl-cooler)
-* [**Introdução á lógico de programação utilizando Perl - Thiago Yukio**](http://lgmb.fmrp.usp.br/cvbioinfo2008/extras/apresentacoes/thiago_logica.pdf)
+Título | Autor |  Link
+---- | ---- | ----
+Perl básico | heitor Gouvêa | [Link](https://heitorgouvea.me/files/perl-basico.pdf)
+Perl para iniciantes | Constantine | [Link](https://pastebin.com/raw/Em3gJuR0)
+Trabalhando com Perl | Antonio Cooler | [Link](https://pt.slideshare.net/DaniloJordo/book-perl-cooler)
+Introdução á lógico de programação utilizando Perl | Thiago Yukio | [Link](http://lgmb.fmrp.usp.br/cvbioinfo2008/extras/apresentacoes/thiago_logica.pdf)
 
 ## Videos
 
@@ -29,11 +31,13 @@
 * [**Conceitos de Linguagens de Programação - Linguagem Perl**](https://www.youtube.com/watch?v=dtJZWrMJ64U)
 * [**Daniel Nunes: Programando em Perl**](https://www.youtube.com/watch?v=vcqG2sO9Mro)
 
-##  Blogs sobre Perl
+## Blogs sobre Perl
 
-* [**Rio PM**](http://rio.pm.org)
-* [**Perl Maven**](https://br.perlmaven.com/perl-tutorial)
-* [**São Paulo Perl Mongers**](http://sao-paulo.pm.org/pub)
+Nome | Link
+---- | ----
+Rio Perl Mongers | [Link](http://rio.pm.org)
+Perl Maven | [Link](https://br.perlmaven.com/perl-tutorial)
+São Paulo Perl Mongers | [Link](http://sao-paulo.pm.org/pub)
 
 ## Bugs
 
