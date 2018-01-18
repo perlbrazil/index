@@ -10,26 +10,28 @@
 
 Título | Autor |  Link
 ---- | ---- | ----
-Perl básico | heitor Gouvêa | [Link](https://heitorgouvea.me/files/perl-basico.pdf)
+Perl básico | Heitor Gouvêa | [Link](https://heitorgouvea.me/files/perl-basico.pdf)
 Perl para iniciantes | Constantine | [Link](https://pastebin.com/raw/Em3gJuR0)
 Trabalhando com Perl | Antonio Cooler | [Link](https://pt.slideshare.net/DaniloJordo/book-perl-cooler)
-Introdução á lógico de programação utilizando Perl | Thiago Yukio | [Link](http://lgmb.fmrp.usp.br/cvbioinfo2008/extras/apresentacoes/thiago_logica.pdf)
+Introdução á lógica de programação utilizando Perl | Thiago Yukio | [Link](http://lgmb.fmrp.usp.br/cvbioinfo2008/extras/apresentacoes/thiago_logica.pdf)
 
 ## Videos
 
-* [**Daniel Nunes: Conhecendo o Perl e suas Aplicações**](https://www.youtube.com/watch?v=tqgBN44orKs)
-* [**Daniel Correa: Perl aula 01 - Preparando o ambiente**](https://www.youtube.com/watch?v=P6ZNPVDhnQ0)
-* [**Daniel Correa: Perl aula 02 - Variáveis**](https://www.youtube.com/watch?v=X2xFt4fR5dg)
-* [**Daniel Correa: Perl aula 03 - Tomada de decisões e operadores lógicos - pt 1**](https://www.youtube.com/watch?v=QoJola12md0)
-* [**Daniel Correa: Perl aula 04 - Tomada de decisões e operadores lógicos - pt 2**](https://www.youtube.com/watch?v=kAIudZXclxI)
-* [**Daniel Correa: Perl aula 05 - Laços de repetição for e while**](https://www.youtube.com/watch?v=6gmLe8gw-jI)
-* [**Daniel Correa: Perl aula 06 - Conexão com banco de dados mysql**](https://www.youtube.com/watch?v=M4iJvSPy2go)
-* [**Mariana Everton: Linguagem Perl**](https://www.youtube.com/watch?v=3WCNYCq_ST4)
-* [**Descrição e Avaliação da Linguagem Perl**](https://www.youtube.com/watch?v=StxVLUbyFiA)
-* [**Paradigma Funcional linguagem Perl**](https://www.youtube.com/watch?v=o-EjpeBHR4U)
-* [**Analisando a linguagem Perl**](https://www.youtube.com/watch?v=esy-FKFFUGE)
-* [**Conceitos de Linguagens de Programação - Linguagem Perl**](https://www.youtube.com/watch?v=dtJZWrMJ64U)
-* [**Daniel Nunes: Programando em Perl**](https://www.youtube.com/watch?v=vcqG2sO9Mro)
+Título | Autor |  Link
+---- | ---- | ----
+Conhecendo o Perl e suas Aplicações | Daniel Nunes | [Link](https://www.youtube.com/watch?v=tqgBN44orKs)
+Perl aula 01 - Preparando o ambiente | Daniel Correa | [Link](https://www.youtube.com/watch?v=P6ZNPVDhnQ0)
+Perl aula 02 - Variáveis | Daniel Correa | [Link](https://www.youtube.com/watch?v=X2xFt4fR5dg)
+Perl aula 03 - Tomada de decisões e operadores lógicos - pt 1 | Daniel Correa | [Link](https://www.youtube.com/watch?v=QoJola12md0)
+Perl aula 04 - Tomada de decisões e operadores lógicos - pt 2 | Daniel Correa | [Link](https://www.youtube.com/watch?v=kAIudZXclxI)
+Perl aula 05 - Laços de repetição for e while | Daniel Correa | [Link](https://www.youtube.com/watch?v=6gmLe8gw-jI)
+Perl aula 06 - Conexão com banco de dados mysql | Daniel Correa | [Link](https://www.youtube.com/watch?v=M4iJvSPy2go)
+Linguagem Perl | Mariana Everton | | [Link](https://www.youtube.com/watch?v=3WCNYCq_ST4)
+Descrição e Avaliação da Linguagem Perl | | [Link](https://www.youtube.com/watch?v=StxVLUbyFiA)
+Paradigma Funcional linguagem Perl | | [Link](https://www.youtube.com/watch?v=o-EjpeBHR4U)
+Analisando a linguagem Perl | | [Link](https://www.youtube.com/watch?v=esy-FKFFUGE)
+Conceitos de Linguagens de Programação - Linguagem Perl | | [Link](https://www.youtube.com/watch?v=dtJZWrMJ64U)
+Programando em Perl | Daniel Nunes | [Link](https://www.youtube.com/watch?v=vcqG2sO9Mro)
 
 ## Blogs sobre Perl
 
