@@ -26,11 +26,11 @@ Perl aula 03 - Tomada de decisões e operadores lógicos - pt 1 | Daniel Correa 
 Perl aula 04 - Tomada de decisões e operadores lógicos - pt 2 | Daniel Correa | [Link](https://www.youtube.com/watch?v=kAIudZXclxI)
 Perl aula 05 - Laços de repetição for e while | Daniel Correa | [Link](https://www.youtube.com/watch?v=6gmLe8gw-jI)
 Perl aula 06 - Conexão com banco de dados mysql | Daniel Correa | [Link](https://www.youtube.com/watch?v=M4iJvSPy2go)
-Linguagem Perl | Mariana Everton | | [Link](https://www.youtube.com/watch?v=3WCNYCq_ST4)
-Descrição e Avaliação da Linguagem Perl | | [Link](https://www.youtube.com/watch?v=StxVLUbyFiA)
-Paradigma Funcional linguagem Perl | | [Link](https://www.youtube.com/watch?v=o-EjpeBHR4U)
-Analisando a linguagem Perl | | [Link](https://www.youtube.com/watch?v=esy-FKFFUGE)
-Conceitos de Linguagens de Programação - Linguagem Perl | | [Link](https://www.youtube.com/watch?v=dtJZWrMJ64U)
+Linguagem Perl | Mariana Everton | [Link](https://www.youtube.com/watch?v=3WCNYCq_ST4)
+Descrição e Avaliação da Linguagem Perl | José Kleverton | [Link](https://www.youtube.com/watch?v=StxVLUbyFiA)
+Paradigma Funcional linguagem Perl | José Rodrigo e Luiz Pereira | [Link](https://www.youtube.com/watch?v=o-EjpeBHR4U)
+Analisando a linguagem Perl |  Leandro Chaves e Maxwell Borges | [Link](https://www.youtube.com/watch?v=esy-FKFFUGE)
+Conceitos de Linguagens de Programação - Linguagem Perl | Raziel | [Link](https://www.youtube.com/watch?v=dtJZWrMJ64U)
 Programando em Perl | Daniel Nunes | [Link](https://www.youtube.com/watch?v=vcqG2sO9Mro)
 
 ## Blogs sobre Perl
