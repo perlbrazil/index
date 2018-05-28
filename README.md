@@ -10,7 +10,7 @@
 
 Título | Autor |  Link
 ---- | ---- | ----
-Perl básico | Heitor Gouvêa | [Link](https://heitorgouvea.me/files/perl-basico.pdf)
+Perl para Pentesters | Heitor Gouvêa | [Link](https://heitorgouvea.me/files/perl-para-pentesters.pdf)
 Perl para iniciantes | Constantine | [Link](https://pastebin.com/raw/Em3gJuR0)
 Trabalhando com Perl | Antonio Cooler | [Link](https://pt.slideshare.net/DaniloJordo/book-perl-cooler)
 Introdução á lógica de programação utilizando Perl | Thiago Yukio | [Link](http://lgmb.fmrp.usp.br/cvbioinfo2008/extras/apresentacoes/thiago_logica.pdf)
