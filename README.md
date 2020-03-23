@@ -1,16 +1,11 @@
 # Perl Brasil
 
-***Repositorio dedicado á comunidade Perl do Brasil, aqui você encontrará links para materias e muito mais.***
-
-* [**Grupo no Facebook**](https://www.facebook.com/groups/PerlBrasilOficial/)
-
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/perlbrasil/index/blob/master/LICENSE.md)
 
 ## Apostilas
 
 Título | Autor |  Link
 ---- | ---- | ----
-Perl para Pentesters | Heitor Gouvêa | [Link](https://heitorgouvea.me/files/perl-para-pentesters.pdf)
 Perl para iniciantes | Constantine | [Link](https://pastebin.com/raw/Em3gJuR0)
 Trabalhando com Perl | Antonio Cooler | [Link](https://pt.slideshare.net/DaniloJordo/book-perl-cooler)
 Introdução á lógica de programação utilizando Perl | Thiago Yukio | [Link](http://lgmb.fmrp.usp.br/cvbioinfo2008/extras/apresentacoes/thiago_logica.pdf)
@@ -40,14 +35,6 @@ Nome | Link
 Rio Perl Mongers | [Link](http://rio.pm.org)
 Perl Maven | [Link](https://br.perlmaven.com/perl-tutorial)
 São Paulo Perl Mongers | [Link](http://sao-paulo.pm.org/pub)
-
-## Bugs
-
-- Reporte bugs em meu email: **hi@heitorgouvea.me**
-
-## Licença
-
-- Este trabalho está licenciado sob [**MIT License**](https://github.com/perlbrasil/index/blob/master/LICENSE.md)
 
 ## Contribuição
 
